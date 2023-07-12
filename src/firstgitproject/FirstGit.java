@@ -6,8 +6,10 @@ public class FirstGit {
 		
 		
 		String s= "go on";
+		String p= "go onnn";
 		
 		System.out.println(s);
+		System.out.println(p);
 	}
 
 }
